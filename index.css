@@ -24,7 +24,6 @@ body{
 
 .btn{
     background-color: var(--primary);
-    /* Additional Styling */
     color: #ffffff;
     border: none;
     border-radius: 8px;
